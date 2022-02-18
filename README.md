@@ -1,0 +1,1 @@
+Projeto feito com o intuito de aprimorar e consolidar os conhecimentos aprendidos sobre HTML e CSS
